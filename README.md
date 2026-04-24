@@ -271,6 +271,7 @@ If you're enjoying RW Mod Editor, please leave a rating on the Play Store. Your 
 - Material Design team at Google
 - Open source font contributors
 - Beta testers and early adopters
+- Luke!!!
 
 ---
 
