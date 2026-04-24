@@ -3,7 +3,6 @@
 ![Platform](https://img.shields.io/badge/Platform-Android-green)
 ![Android](https://img.shields.io/badge/Android-15%2B-blue)
 ![Status](https://img.shields.io/badge/Status-Active-orange)
-![
 
 ## 🎉 RW Mod Editor v1.0.0 - Initial Release
 
