@@ -202,25 +202,6 @@ If you're enjoying RW Mod Editor, please leave a rating on the Play Store. Your 
 
 ---
 
-## 🎊 Getting Started
-
-**First Time Users:**
-
-1. **Grant Permissions** - Allow file access when prompted
-2. **Choose Theme** - Select Light, Dark, or Dynamic in settings
-3. **Pick a Font** - Try different fonts to find your favorite
-4. **Open a Mod** - Tap the folder icon to browse for .ini files
-5. **Start Editing** - Tap sections to expand, tap values to edit
-6. **Save Your Work** - Tap the save icon when done
-
-**Tips:**
-- Long-press properties to drag and reorder
-- Toggle sections by tapping headers
-- Use boolean switches for true/false values
-- Double-tap back button to exit app
-
----
-
 ## 📦 Version Information
 
 **Version:** 1.0.0  
@@ -270,6 +251,7 @@ If you're enjoying RW Mod Editor, please leave a rating on the Play Store. Your 
 **Download:** Available on Google Play Store(TBA)  
 **Support:** In-app bug reporting  
 **Updates:** Automatic via Play Store  
+**Donate:** You can donate to support the app development here in [Paypal](https://paypal.me/renefarious).
 
 **System Requirements:**
 - Android 6.0 or higher
