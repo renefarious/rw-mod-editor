@@ -213,20 +213,6 @@ If you're enjoying RW Mod Editor, please leave a rating on the Play Store. Your 
 
 ---
 
-## 📸 Screenshots
-
-Check out the app in action:
-- Terminal-style app icon
-- Material Design 3 interface
-- Light and dark themes
-- Dynamic color theming
-- Collapsible section editor
-- Inline property editing
-- Font selection
-- Settings menu
-
----
-
 ## 🎊 Getting Started
 
 **First Time Users:**
