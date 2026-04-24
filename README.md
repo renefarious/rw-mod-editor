@@ -8,7 +8,7 @@
 
 **Release Date:** March 2026  
 **Package:** com.renefarious.rweditor
-**Minimum Android:** 5.0 (API 21)  
+**Minimum Android:** 6.0 (API 23)  
 **Target Android:** 16 (API 36)
 
 ---
@@ -181,16 +181,6 @@ The first official release of **RW Mod Editor** - a powerful, modern tool for cr
 
 ---
 
-## 🚧 Known Limitations
-
-- **No Syntax Highlighting** - Plain text editing (coming in future update)
-- **No Multi-file Editing** - One file at a time
-- **No Undo/Redo** - Manual backup recommended before major changes
-- **No Property Search** - Planned for v1.1.0
-- **No Template Library** - Coming in future release
-
----
-
 ## 🙏 Thank You!
 
 Thank you for being part of the first release of RW Mod Editor! This app was built with passion for the Rusted Warfare modding community.
@@ -271,7 +261,7 @@ If you're enjoying RW Mod Editor, please leave a rating on the Play Store. Your 
 - Material Design team at Google
 - Open source font contributors
 - Beta testers and early adopters
-- Luke!!!
+- To Luke!!!(Arigatou gozaimasu!)
 
 ---
 
