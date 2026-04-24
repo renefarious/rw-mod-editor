@@ -202,21 +202,6 @@ If you're enjoying RW Mod Editor, please leave a rating on the Play Store. Your 
 
 ---
 
-## 📦 Version Information
-
-**Version:** 1.0.0  
-**Build:** 1  
-**Release Date:** March 2026  
-**Package Name:** com.renefarious.rweditor
-**Size:** ~15 MB  
-
-**Gradle:** 9.0  
-**Android Gradle Plugin:** 8.7.3  
-**Target SDK:** 36 (Android 16)  
-**Min SDK:** 23 (Android 6.0)  
-
----
-
 ## 🔐 Privacy & Security
 
 - **No Ads** - Clean, ad-free experience
